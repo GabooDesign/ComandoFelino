@@ -467,4 +467,3 @@ Usamos la biblioteca p5.js v1.11.5., la biblioteca de sound.p5, la biblioteca ml
 
 ## Conclusiones
 
-Como posible uso futuro, el proyecto podría servir para generar conciencia sobre cómo, en la actualidad, interactuamos cada vez más con inteligencias artificiales que intentan emular empatía a través de respuestas previamente programadas por humanos. Esto permite evidenciar la limitada interactividad real que ofrecen estas tecnologías y los posibles problemas sociales que pueden derivarse de estos problemas.  
